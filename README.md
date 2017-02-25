@@ -21,14 +21,14 @@
    This project allows users to register complaints, view them, track the progress and feedback.To register any complaint, User first needs to signup.He can then login using same id password next time.It also allows admin to login, view complaints, add new features.
     
 ## Linux Workshop
-   Attended a Linux Workshop organised by Centre for Electronic Governance(CEG).
-   Reieved certificate with good conduct.
+   Attended a Linux Workshop organised by Centre for Electronic Governance(CEG)
+   and recieved certificate with good conduct.
     
 # Technical Skills
-   Languages     :   C, C++, HTML, CSS, PHP, MySQL
-   Frameworks    :   Laravel, Bootstrap, Django
-   Technologies  :   Android, Linux
-   Softwares     :    MS Word, MS Excel, MS PowerPoint
+   1. Languages     :   C, C++, HTML, CSS, PHP, MySQL
+   2. Frameworks    :   Laravel, Bootstrap, Django
+   3. Technologies  :   Android, Linux
+   4. Softwares     :    MS Word, MS Excel, MS PowerPoint
     
 # Academic Achievements
    1. Got scholarship by  Department of Science and Technology,Government of India in 2010.
