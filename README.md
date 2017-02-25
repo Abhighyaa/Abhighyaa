@@ -31,26 +31,26 @@
    Softwares     :    MS Word, MS Excel, MS PowerPoint
     
 # Academic Achievements
-   1 Got scholarship by  Department of Science and Technology,Government of India in 2010.
-   2 Participated in Science Talent Hunt by Akhil Bhartiya Vidhyarti Parishad in 2010­ and 2011.
-   3 Received various appreciation certificates for good academic records.
+   1. Got scholarship by  Department of Science and Technology,Government of India in 2010.
+   2. Participated in Science Talent Hunt by Akhil Bhartiya Vidhyarti Parishad in 2010­ and 2011.
+   3. Received various appreciation certificates for good academic records.
    
 # Extra-curricular Activities
-   1  Received the title of \textbf{Ms. Debut} in 2016 in the techno-cultural fest of MLVTEC, Bhilwara.
-   2 Participated in National Quiz Event organized by Bharat Vikas Parishad in 2009.
-   3 Secured second prize for Essay Writing and Painting Competition by People for Animals, Rajasthan
-   4 Secured 84.5 % in Guitar examination.
-   5 Secured first and second position in State level quiz organized by B.V.P in the year 2009 and 2010 respectively.
-   6 Secured second position in Poster making competition by Dainik Bhaskar in 2010.
+   1.  Received the title of \textbf{Ms. Debut} in 2016 in the techno-cultural fest of MLVTEC, Bhilwara.
+   2. Participated in National Quiz Event organized by Bharat Vikas Parishad in 2009.
+   3. Secured second prize for Essay Writing and Painting Competition by People for Animals, Rajasthan
+   4. Secured 84.5 % in Guitar examination.
+   5. Secured first and second position in State level quiz organized by B.V.P in the year 2009 and 2010 respectively.
+   6. Secured second position in Poster making competition by Dainik Bhaskar in 2010.
     
 # Sports Achievements
-   1 Secured first position in Chess in Sangarsh in 2016.
-   2 Got second position in Badminton in Sangarsh in 2016.
-   3 Participated in Judo Karate sports event by Sanjeevani Academy in 2008, 2009 and 2010.
+   1. Secured first position in Chess in Sangarsh in 2016.
+   2. Got second position in Badminton in Sangarsh in 2016.
+   3. Participated in Judo Karate sports event by Sanjeevani Academy in 2008, 2009 and 2010.
   
 # Positions of Responsibility
-   1 Class Representative-Second Year IT
-   2 Programming Club Mentor
-   3 Vice Captain- Tagore House  Central Academy
-   4 Substitute Vice Captain- Tagore House Central Academy
+   1. Class Representative-Second Year IT
+   2. Programming Club Mentor
+   3. Vice Captain- Tagore House  Central Academy
+   4. Substitute Vice Captain- Tagore House Central Academy
    
