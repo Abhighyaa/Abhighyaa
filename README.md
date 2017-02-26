@@ -1,10 +1,12 @@
 # Abhighyaa Jain
  
  323 Mahesh Colony, Bhilwara -311001
+ 
  +919468931270 
+ 
  abhighyaajain1610@gmail.com
  
- # Education
+# Education
  
  2015-present     B.Tech. in Information Technology      Manikya Lal Verma Textile and Engineering College, Bhilwara       Second semester: 87.1%
  2015             Higher Secondary Examination           Noble International School                                         Aggregate: 84.40%
