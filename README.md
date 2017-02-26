@@ -8,9 +8,11 @@
  
 # Education
  
- 2015-present     B.Tech. in Information Technology      Manikya Lal Verma Textile and Engineering College, Bhilwara       Second semester: 87.1%
- 2015             Higher Secondary Examination           Noble International School                                         Aggregate: 84.40%
- 2013             Matriculation                          Central Academy School                                             CGPA: 10/10
+2015-present          B.Tech. in Information Technology      Manikya Lal Verma Textile and Engineering College, Bhilwara       Second semester: 87.1%
+ 
+2015             Higher Secondary Examination           Noble International School                                         Aggregate: 84.40%
+ 
+2013             Matriculation                          Central Academy School                                             CGPA: 10/10
  
 # Key Projects and Workshops
 ## [Online Bakery Shop System](https://abhighyaa.github.io/Online-bakery-store/)
