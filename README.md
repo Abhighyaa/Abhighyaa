@@ -30,7 +30,7 @@
     
 # Technical Skills
    1. Languages     :   C, C++, HTML, CSS, PHP, MySQL
-   2. Frameworks    :   Laravel, Bootstrap, Django
+   2. Frameworks    :   Laravel, Bootstrap, Django, AngularJS
    3. Technologies  :   Android, Linux
    4. Softwares     :    MS Word, MS Excel, MS PowerPoint
     
