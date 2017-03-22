@@ -23,6 +23,9 @@
     
 ## [CyberCrime Management](https://abhighyaa.github.io/cybercrime-department/)
    This project allows users to register complaints, view them, track the progress and feedback.To register any complaint, User first needs to signup.He can then login using same id password next time.It also allows admin to login, view complaints, add new features.
+   
+## Real Time Monitoring of Websites
+   A monitoring tool that gives accessibility audits on the basis of WCAG by crawling the websites. 
     
 ## Linux Workshop
    Attended a Linux Workshop organised by Centre for Electronic Governance(CEG)
@@ -40,12 +43,13 @@
    3. Received various appreciation certificates for good academic records.
    
 # Extra-curricular Activities
-   1.  Received the title of \textbf{Ms. Debut} in 2016 in the techno-cultural fest of MLVTEC, Bhilwara.
-   2. Participated in National Quiz Event organized by Bharat Vikas Parishad in 2009.
-   3. Secured second prize for Essay Writing and Painting Competition by People for Animals, Rajasthan
-   4. Secured 84.5 % in Guitar examination.
-   5. Secured first and second position in State level quiz organized by B.V.P in the year 2009 and 2010 respectively.
-   6. Secured second position in Poster making competition by Dainik Bhaskar in 2010.
+   1. Secured First position in debate competition held on March 08, 2017. 
+   2. Received the title of \textbf{Ms. Debut} in 2016 in the techno-cultural fest of MLVTEC, Bhilwara.
+   3. Participated in National Quiz Event organized by Bharat Vikas Parishad in 2009.
+   4. Secured second prize for Essay Writing and Painting Competition by People for Animals, Rajasthan
+   5. Secured 84.5 % in Guitar examination.
+   6. Secured first and second position in State level quiz organized by B.V.P in the year 2009 and 2010 respectively.
+   7. Secured second position in Poster making competition by Dainik Bhaskar in 2010.
     
 # Sports Achievements
    1. Secured first position in Chess in Sangarsh in 2016.
@@ -53,8 +57,9 @@
    3. Participated in Judo Karate sports event by Sanjeevani Academy in 2008, 2009 and 2010.
   
 # Positions of Responsibility
-   1. Class Representative-Second Year IT
-   2. Programming Club Mentor
-   3. Vice Captain- Tagore House  Central Academy
-   4. Substitute Vice Captain- Tagore House Central Academy
+   1. Internshala Student Partner ISP 7.0
+   2. Class Representative-Second Year IT
+   3. Programming Club Mentor
+   4. Vice Captain- Tagore House  Central Academy
+   5. Substitute Vice Captain- Tagore House Central Academy
    
