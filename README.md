@@ -15,6 +15,9 @@
 2013             Matriculation                          Central Academy School                                             CGPA: 10/10
  
 # Key Projects and Workshops
+## [Chitrashala](https://github.com/Abhighyaa/chitrashala)
+   This is an end to end website on the final stage of development. It is a kind of blogging website for an padma shree winner artist.Throught he website, artist will be able to popularize more of his art. It contains details about art, artists, and the reccent exhibitions and paintings of the artists. It also has a contat us page which gives the GPS location of artist's workplace.
+   
 ## [Online Bakery Shop System](https://abhighyaa.github.io/Online-bakery-store/)
    This allows users to check and purchase various bakery products available online.User can add the selected items it to his shopping cart.User needs to register on the site before checking out.He can then login using same id password next time.Now he may pay through a Stripe.In addition, SQL serves as a backend to store bakery products lists data.Thus, the online Bakery shopping project brings an entire bakery shop online, making it easy for both buyer and seller.
     
@@ -27,14 +30,17 @@
 ## Real Time Monitoring of Websites
    A monitoring tool that gives accessibility audits on the basis of WCAG by crawling the websites. 
     
+## Core Java
+   Secured 93.33% in Core Java online workshop from Internshala
+   
 ## Linux Workshop
    Attended a Linux Workshop organised by Centre for Electronic Governance(CEG)
    and recieved certificate with good conduct.
     
 # Technical Skills
-   1. Languages     :   C, C++, HTML, CSS, PHP, MySQL
+   1. Languages     :   C, C++, HTML, CSS, PHP, MySQL, Python, Core Java
    2. Frameworks    :   Laravel, Bootstrap, Django, AngularJS
-   3. Technologies  :   Android, Linux, Windows
+   3. Technologies  :   Android, Linux, Windows.
    4. Softwares     :    MS Word, MS Excel, MS PowerPoint
     
 # Academic Achievements
@@ -57,9 +63,10 @@
    3. Participated in Judo Karate sports event by Sanjeevani Academy in 2008, 2009 and 2010.
   
 # Positions of Responsibility
-   1. Internshala Student Partner ISP 7.0
-   2. Class Representative-Second Year IT
-   3. Programming Club Mentor
-   4. Vice Captain- Tagore House  Central Academy
-   5. Substitute Vice Captain- Tagore House Central Academy
+   1. Student Partner for Society for Innovation - organization of governnment.
+   2. Internshala Student Partner ISP 7.0
+   3. Class Representative-Second Year IT
+   4. Programming Club Mentor
+   5. Vice Captain- Tagore House  Central Academy
+   6. Substitute Vice Captain- Tagore House Central Academy
    
