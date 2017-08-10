@@ -30,7 +30,7 @@
 ## Real Time Monitoring of Websites
    A monitoring tool that gives accessibility audits on the basis of WCAG by crawling the websites. 
     
-## Core Java
+## [Core Java](https://drive.google.com/open?id=0B4ucEJp4Oijdckp2bWJ0WjVKdzQ)
    Secured 93.33% in Core Java online workshop from Internshala
    
 ## Linux Workshop
@@ -49,13 +49,14 @@
    3. Received various appreciation certificates for good academic records.
    
 # Extra-curricular Activities
-   1. Secured First position in debate competition held on March 08, 2017. 
-   2. Received the title of \textbf{Ms. Debut} in 2016 in the techno-cultural fest of MLVTEC, Bhilwara.
-   3. Participated in National Quiz Event organized by Bharat Vikas Parishad in 2009.
-   4. Secured second prize for Essay Writing and Painting Competition by People for Animals, Rajasthan
-   5. Secured 84.5 % in Guitar examination.
-   6. Secured first and second position in State level quiz organized by B.V.P in the year 2009 and 2010 respectively.
-   7. Secured second position in Poster making competition by Dainik Bhaskar in 2010.
+   1. Blogger at www.skilledguru.in
+   2. Secured First position in debate competition held on March 08, 2017. 
+   3. Received the title of \textbf{Ms. Debut} in 2016 in the techno-cultural fest of MLVTEC, Bhilwara.
+   4. Participated in National Quiz Event organized by Bharat Vikas Parishad in 2009.
+   5. Secured second prize for Essay Writing and Painting Competition by People for Animals, Rajasthan
+   6. Secured 84.5 % in Guitar examination.
+   7. Secured first and second position in State level quiz organized by B.V.P in the year 2009 and 2010 respectively.
+   8. Secured second position in Poster making competition by Dainik Bhaskar in 2010.
     
 # Sports Achievements
    1. Secured first position in Chess in Sangarsh in 2016.
