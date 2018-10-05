@@ -1,6 +1,6 @@
 # Abhighyaa Jain
  
- 323 Mahesh Colony, Bhilwara -311001
+ A-323 Mahesh Colony, Bhilwara -311001
  
  +919468931270 
  
@@ -8,13 +8,16 @@
  
 # Education
  
-2015-present          B.Tech. in Information Technology      Manikya Lal Verma Textile and Engineering College, Bhilwara       Second semester: 87.1%
+2015-present          B.Tech. in Information Technology      Manikya Lal Verma Textile and Engineering College, Bhilwara       Sixth semester: 81.4%
  
 2015             Higher Secondary Examination           Noble International School                                         Aggregate: 84.40%
  
 2013             Matriculation                          Central Academy School                                             CGPA: 10/10
  
 # Key Projects and Workshops
+## [Todo Web Application](https://github.com/Abhighyaa/todoLaravel)
+   Users can create their profiles and therafter create, update, view, search and delete any task.App allows users to use different views (list and grid) and orders(date, title, user's order, today's, pending or completed) to view tasks.Users can Pin, archive and trash a task.App allows users to Change background color of a task or even the theme of the website.Users  can add labels and reminders to tasks.App allows users to collaborate with other users on the task.App sends notifications for reminders,overdue tasks and collaboration requests.
+
 ## [Chitrashala](https://github.com/Abhighyaa/chitrashala)
    This is an end to end website on the final stage of development. It is a kind of blogging website for an padma shree winner artist.Throught he website, artist will be able to popularize more of his art. It contains details about art, artists, and the reccent exhibitions and paintings of the artists. It also has a contat us page which gives the GPS location of artist's workplace.
    
@@ -27,7 +30,7 @@
 ## [CyberCrime Management](https://abhighyaa.github.io/cybercrime-department/)
    This project allows users to register complaints, view them, track the progress and feedback.To register any complaint, User first needs to signup.He can then login using same id password next time.It also allows admin to login, view complaints, add new features.
    
-## Real Time Monitoring of Websites
+## [Real Time Monitoring of Websites](https://github.com/Abhighyaa/RTM)
    A monitoring tool that gives accessibility audits on the basis of WCAG by crawling the websites. 
     
 ## [Core Java](https://drive.google.com/open?id=0B4ucEJp4Oijdckp2bWJ0WjVKdzQ)
